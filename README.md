@@ -71,8 +71,15 @@ The GUI window will appear, providing various options for performing OCR:
 
 ## Demonstration
 
-Input: [sample/example.pdf]
-Output: [sample/example.txt]
+To demonstrate the usage of the script, we will perform OCR on a sample PDF file and export the recognized text to a text file.
+
+### Input
+
+We will use the following sample PDF file for OCR: [sample/example.pdf](sample/example.pdf). You can download it by clicking on the link.
+
+### Output
+
+The recognized text will be exported to a text file. You can download the output file containing the recognized text here: [sample/example.txt](sample/example.txt).
 
 ## License
 
