@@ -69,6 +69,11 @@ The GUI window will appear, providing various options for performing OCR:
 - The script utilizes the `BatchOCR`, `SingleOCR`, and `ClipboardOCR` classes from the `ocr_wrapper` module.
 - OCR progress is displayed using a progress bar and messages are shown in the message box.
 
+## Demonstration
+
+Input: [sample/example.pdf]
+Output: [sample/example.txt]
+
 ## License
 
 This script is released under the [MIT License](LICENSE).
