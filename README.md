@@ -1,5 +1,7 @@
 # Chinese and English OCR
 
+![image-20230212143110006](https://github.com/RedisMadani/ocr/assets/136177376/3d6eaf1c-2850-40e6-9e38-a64df4e565fb)
+
 This is a script for performing optical character recognition (OCR) on Chinese and English text using the Tesseract OCR engine. It provides a graphical user interface (GUI) built with PyQt5.
 
 ## Requirements
